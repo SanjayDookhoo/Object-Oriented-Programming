@@ -1,0 +1,8 @@
+invoiceno;partno;packs;qty
+1;BROP;2;16
+1;BSAP;9;9
+1;CSTP;3;3
+2;BSAP;5;5
+2;HBBP;4;4
+2;HCOP;3;3
+2;HCSP;3;3

@@ -1,0 +1,6 @@
+Name: Sachin Rajkumar
+ID: 814001729
+Assignment No: 2
+Course: COMP2500
+
+Main file: assignment2.java

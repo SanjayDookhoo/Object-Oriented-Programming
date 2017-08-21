@@ -1,0 +1,17 @@
+To do
+	different classes in the same package vs different package(difference in code)
+	final classes
+	look at narrowing and widening
+	
+Notes:
+	Access Modifier - public, private, protected, default, "no modifier"
+	the public static void main(String[] args) must be placed for the code to run. That can be the only method to be included in that class
+	the class of the file name may be the access modifier of "no modifier" or public
+	within the same file, additional classes must be the access modifier of "no modifier"
+	every method within a class must have a main body aka must have opening and closing {}
+		otherwise it is declared as an abstract method and the brackets is replaced with ;	
+	within the class of the file name(the one with the main) u can include other funtions that can be called if the original class is initialized. Because of the static in main, those functions in the same class cant be called
+	
+	
+	remind feng to send me the data structures final exam
+	mangarock
